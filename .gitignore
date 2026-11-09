@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Extracted audio cache (can be regenerated from data/raw/VOICE DATASET.zip)
+data/extracted/
+
+# Temporary / OS files
+work/
+.DS_Store
+Thumbs.db

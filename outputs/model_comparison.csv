@@ -1,0 +1,6 @@
+model_name,accuracy,girls_sensitivity_recall,girls_precision,girls_f1,macro_f1,roc_auc
+"SVM (RBF, C=4.0, balanced)",0.9189,0.4737,0.8182,0.6,0.7774,0.9098
+"SVM (Linear, C=1.0, balanced)",0.8176,0.5789,0.3667,0.449,0.6698,0.8217
+Random Forest (balanced),0.9122,0.3684,0.875,0.5185,0.7351,0.8303
+Logistic Regression (balanced),0.8108,0.7368,0.3784,0.5,0.6917,0.867
+"MLP Neural Net (64, 32)",0.9392,0.5789,0.9167,0.7097,0.8379,0.92

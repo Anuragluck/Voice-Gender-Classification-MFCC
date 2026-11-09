@@ -1,0 +1,13 @@
+EC24313 Assessment 2 - Run summary
+======================================
+Usable recordings: 148 (129 boys, 19 girls)
+Excluded recordings: 0
+Filename-derived speaker groups: 76
+Groups needing label review: 1
+Evaluation folds: 5
+Accuracy: 0.9189
+Sensitivity/recall (girls): 0.4737
+Precision (girls): 0.8182
+ROC-AUC (girls): 0.9098
+
+Inspect dataset_manifest.csv and oof_predictions.csv before submission.

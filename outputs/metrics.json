@@ -1,0 +1,51 @@
+{
+  "model": "RBF SVM (C=4.0) with StandardScaler and class_weight=balanced",
+  "sample_rate_hz": 16000,
+  "silence_trim_threshold_db": 30,
+  "mfcc_coefficients": 13,
+  "model_feature_count": 26,
+  "evaluation": "Stratified group k-fold cross-validation using filename-derived speaker groups",
+  "folds": 5,
+  "positive_class_for_sensitivity_precision_roc": "girls (Class 2)",
+  "accuracy": 0.918918918918919,
+  "sensitivity_recall_girls": 0.47368421052631576,
+  "precision_girls": 0.8181818181818182,
+  "roc_auc_girls": 0.9098327213382293,
+  "confusion_matrix_rows_actual_columns_predicted": [
+    [
+      127,
+      2
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "classification_report": {
+    "boys": {
+      "precision": 0.927007299270073,
+      "recall": 0.9844961240310077,
+      "f1-score": 0.9548872180451128,
+      "support": 129.0
+    },
+    "girls": {
+      "precision": 0.8181818181818182,
+      "recall": 0.47368421052631576,
+      "f1-score": 0.6,
+      "support": 19.0
+    },
+    "accuracy": 0.918918918918919,
+    "macro avg": {
+      "precision": 0.8725945587259456,
+      "recall": 0.7290901672786617,
+      "f1-score": 0.7774436090225564,
+      "support": 148.0
+    },
+    "weighted avg": {
+      "precision": 0.913036460481716,
+      "recall": 0.918918918918919,
+      "f1-score": 0.9093273724852672,
+      "support": 148.0
+    }
+  }
+}

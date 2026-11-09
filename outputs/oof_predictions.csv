@@ -1,0 +1,149 @@
+relative_path,filename,class_name,label,group_id,trimmed_duration_seconds,fold,predicted_label,predicted_class,girls_decision_score
+VOICE DATASET BOYS/Abdullah_Saif_BIT 2.wav,Abdullah_Saif_BIT 2.wav,boys,1,abdullah,2.432,4,1,boys,-1.1341837508325776
+VOICE DATASET BOYS/Abdullah_Saif_Name.wav,Abdullah_Saif_Name.wav,boys,1,abdullah,1.12,4,1,boys,-0.9876665985883959
+VOICE DATASET BOYS/ABHAY_PATHAK_BIT.wav,ABHAY_PATHAK_BIT.wav,boys,1,abhay,0.864,4,1,boys,-0.47405759601559155
+VOICE DATASET BOYS/ABHAY_PATHAK_NAME.wav,ABHAY_PATHAK_NAME.wav,boys,1,abhay,0.896,4,1,boys,-0.2892511101673136
+VOICE DATASET BOYS/Abhinandan_BIT.wav,Abhinandan_BIT.wav,boys,1,abhinandan,0.401,2,1,boys,-1.1690428064031657
+VOICE DATASET BOYS/Abhinandan_Name.wav,Abhinandan_Name.wav,boys,1,abhinandan,1.28,2,1,boys,-0.9388847960313581
+VOICE DATASET BOYS/Abhishek_BIT_trimmed.wav,Abhishek_BIT_trimmed.wav,boys,1,abhishek,0.8,4,1,boys,-1.1718452061817821
+VOICE DATASET BOYS/Abhishek_Name_trimmed.wav,Abhishek_Name_trimmed.wav,boys,1,abhishek,0.89,4,1,boys,-0.9344898044408365
+VOICE DATASET BOYS/ADITYA_BIT.mp3,ADITYA_BIT.mp3,boys,1,aditya,0.928,4,1,boys,-1.4610116027624378
+VOICE DATASET BOYS/ADITYA_NAME.mp3,ADITYA_NAME.mp3,boys,1,aditya,1.248,4,1,boys,-0.919133461758221
+VOICE DATASET BOYS/ADITYARAJ_BIT & ADITYARAJ_NAME_raw.wav,ADITYARAJ_BIT & ADITYARAJ_NAME_raw.wav,boys,1,adityaraj,2.496,5,1,boys,-1.2101890613820174
+VOICE DATASET BOYS/aiml wav 1,aiml wav 1,boys,1,aiml,0.8435,3,1,boys,-1.0405883055206413
+VOICE DATASET BOYS/aiml wav 2,aiml wav 2,boys,1,aiml,0.873,3,1,boys,-0.948641499052989
+VOICE DATASET BOYS/Akshit_BIT.mp3,Akshit_BIT.mp3,boys,1,akshit,1.44,3,1,boys,-1.143077859561002
+VOICE DATASET BOYS/Akshit_Name.mp3,Akshit_Name.mp3,boys,1,akshit,1.248,3,1,boys,-0.8736551334022327
+VOICE DATASET BOYS/Aman1_Bit & Aman_Kumar_Singh.wav,Aman1_Bit & Aman_Kumar_Singh.wav,boys,1,aman,1.44,1,1,boys,-0.8608893084032533
+VOICE DATASET BOYS/Aman_Bit & Aman_Kumar_Singh 1.wav,Aman_Bit & Aman_Kumar_Singh 1.wav,boys,1,aman,1.248,1,1,boys,-0.9263986964095619
+VOICE DATASET BOYS/Aman_BIT_trimmed.wav,Aman_BIT_trimmed.wav,boys,1,aman,0.79,1,1,boys,-0.9150648977088618
+VOICE DATASET BOYS/AMAN_CHOUDHARY_BIT 1.wav,AMAN_CHOUDHARY_BIT 1.wav,boys,1,aman,1.472,1,1,boys,-1.0799488187066841
+VOICE DATASET BOYS/AMAN_CHOUDHARY_NAME 1.wav,AMAN_CHOUDHARY_NAME 1.wav,boys,1,aman,1.12,1,1,boys,-0.7599266775029241
+VOICE DATASET BOYS/Aman_Name_trimmed.wav,Aman_Name_trimmed.wav,boys,1,aman,1.23,1,1,boys,-0.630968301438679
+VOICE DATASET BOYS/Amish_Kumar_Dubey_Bit.wav,Amish_Kumar_Dubey_Bit.wav,boys,1,amish,0.935,2,1,boys,-1.2759338725181015
+VOICE DATASET BOYS/Amish_Kumar_Dubey_Name.wav,Amish_Kumar_Dubey_Name.wav,boys,1,amish,1.12,2,1,boys,-1.2129228568760857
+VOICE DATASET BOYS/Anant_Toppo_BIT_Name.wav,Anant_Toppo_BIT_Name.wav,boys,1,anant,3.008,5,1,boys,-0.9579127086719218
+VOICE DATASET BOYS/Anant_Toppo_BIT_Name_trimmed.wav,Anant_Toppo_BIT_Name_trimmed.wav,boys,1,anant,1.765,5,1,boys,-1.4597215107473165
+VOICE DATASET BOYS/Animesh_BIT.wav,Animesh_BIT.wav,boys,1,animesh,9.8454,3,1,boys,-0.8761186793427151
+VOICE DATASET BOYS/Animesh_Name.wav,Animesh_Name.wav,boys,1,animesh,10.0374,3,1,boys,-0.8862593216144681
+VOICE DATASET BOYS/AnimeshKumar_BIT.wav,AnimeshKumar_BIT.wav,boys,1,animeshkumar,0.864,3,1,boys,-0.38589057478137323
+VOICE DATASET BOYS/AnimeshKumar_Name.wav,AnimeshKumar_Name.wav,boys,1,animeshkumar,1.568,3,1,boys,-1.390841996949613
+VOICE DATASET BOYS/Anshuman_BIT.mp3,Anshuman_BIT.mp3,boys,1,anshuman,2.048,1,1,boys,-1.5343496091485957
+VOICE DATASET BOYS/Anshuman_Name.mp3,Anshuman_Name.mp3,boys,1,anshuman,3.424,1,1,boys,-1.101155259663852
+VOICE DATASET BOYS/AnshumanPatra_BIT&AnshumanPatra_Name.wav,AnshumanPatra_BIT&AnshumanPatra_Name.wav,boys,1,anshumanpatra,3.776,5,1,boys,-0.5123495773544041
+VOICE DATASET BOYS/AnuragTiwari_BIT.wav,AnuragTiwari_BIT.wav,boys,1,anuragtiwari,1.46,4,1,boys,-1.2589486366072866
+VOICE DATASET BOYS/AnuragTiwari_Name.wav,AnuragTiwari_Name.wav,boys,1,anuragtiwari,1.378,4,1,boys,-0.5190484348756612
+VOICE DATASET BOYS/AOZZ_BRAHMSHIV_JHA_BIT.wav,AOZZ_BRAHMSHIV_JHA_BIT.wav,boys,1,aozz,0.85,5,1,boys,-1.1893302761586892
+VOICE DATASET BOYS/AOZZ_BRAHMSHIV_JHA_NAME.wav,AOZZ_BRAHMSHIV_JHA_NAME.wav,boys,1,aozz,1.38,5,1,boys,-1.1190757882375795
+VOICE DATASET BOYS/ARNAV_BIT & ARNAV_SRIVASTAVA.wav,ARNAV_BIT & ARNAV_SRIVASTAVA.wav,boys,1,arnav,2.848,4,1,boys,-0.5461031726934629
+VOICE DATASET BOYS/Arpan_BIT.wav,Arpan_BIT.wav,boys,1,arpan,2.1334,4,1,boys,-0.7717266364471439
+VOICE DATASET BOYS/Arpan_Name.wav,Arpan_Name.wav,boys,1,arpan,3.1574,4,1,boys,-1.0856890701403272
+VOICE DATASET BOYS/Aryaman_BIT.mp3,Aryaman_BIT.mp3,boys,1,aryaman,0.896,3,1,boys,-1.220542287079796
+VOICE DATASET BOYS/Aryaman_Name.mp3,Aryaman_Name.mp3,boys,1,aryaman,1.504,3,1,boys,-0.8124295243727191
+VOICE DATASET BOYS/Aryan Raj_BIT.wav,Aryan Raj_BIT.wav,boys,1,aryan,0.672,1,1,boys,-1.305129908365341
+VOICE DATASET BOYS/Aryan Raj_NAME.wav,Aryan Raj_NAME.wav,boys,1,aryan,0.8,1,1,boys,-1.0382466804296535
+VOICE DATASET BOYS/Ayush_BIT&Ayush_Name.wav,Ayush_BIT&Ayush_Name.wav,boys,1,ayush,2.592,1,1,boys,-0.7749712498043869
+VOICE DATASET BOYS/AyushMarkHembrom_BIT.wav,AyushMarkHembrom_BIT.wav,boys,1,ayushmarkhembrom,0.832,5,1,boys,-1.1151222175609807
+VOICE DATASET BOYS/AyushMarkHembrom_Name.wav,AyushMarkHembrom_Name.wav,boys,1,ayushmarkhembrom,1.44,5,1,boys,-1.2161849074494773
+VOICE DATASET BOYS/DEVENDRA_BIT.wav,DEVENDRA_BIT.wav,boys,1,devendra,1.1,1,1,boys,-1.342523602998461
+VOICE DATASET BOYS/DEVENDRA_NAME.wav,DEVENDRA_NAME.wav,boys,1,devendra,0.76,1,1,boys,-1.813718807642108
+VOICE DATASET BOYS/Dipanshu_BIT & Dipanshu_NAME.mp4,Dipanshu_BIT & Dipanshu_NAME.mp4,boys,1,dipanshu,3.392,2,1,boys,-1.254878164429712
+VOICE DATASET BOYS/Divyanshu_Kumar_BIT.mp3,Divyanshu_Kumar_BIT.mp3,boys,1,divyanshu,2.432,2,1,boys,-0.8745212505484579
+VOICE DATASET BOYS/Divyanshu_Kumar_Name.mp3,Divyanshu_Kumar_Name.mp3,boys,1,divyanshu,3.744,2,1,boys,-0.48333765790655353
+VOICE DATASET BOYS/DivyaPrakashSingh_BIT.wav,DivyaPrakashSingh_BIT.wav,boys,1,divyaprakashsingh,1.8334,3,1,boys,-1.3501457547350428
+VOICE DATASET BOYS/DivyaPrakashSingh_Name.wav,DivyaPrakashSingh_Name.wav,boys,1,divyaprakashsingh,2.26,3,1,boys,-1.519876534861353
+VOICE DATASET BOYS/GautamGambhir_BIT & GautamGambhir_Name.wav,GautamGambhir_BIT & GautamGambhir_Name.wav,boys,1,gautamgambhir,1.6,1,1,boys,-1.3524700784893562
+VOICE DATASET BOYS/Hardik_BIT.mp3,Hardik_BIT.mp3,boys,1,hardik,2.6238,4,1,boys,-1.240724546915477
+VOICE DATASET BOYS/Hardik_Name.mp3,Hardik_Name.mp3,boys,1,hardik,3.104,4,1,boys,-0.803137251333748
+VOICE DATASET BOYS/hitesh.wav,hitesh.wav,boys,1,hitesh,2.336,4,1,boys,-1.1310274059183016
+VOICE DATASET BOYS/hitesh_trimmed.wav,hitesh_trimmed.wav,boys,1,hitesh,2.24,4,1,boys,-1.1305588972835117
+VOICE DATASET BOYS/Ishan_BIT_trimmed.wav,Ishan_BIT_trimmed.wav,boys,1,ishan,0.95,5,1,boys,-1.641789329232874
+VOICE DATASET BOYS/Ishan_Name_trimmed.wav,Ishan_Name_trimmed.wav,boys,1,ishan,1.12,5,1,boys,-1.3307330843008165
+VOICE DATASET BOYS/Jalaj_BIT & Jalaj_Name.wav,Jalaj_BIT & Jalaj_Name.wav,boys,1,jalaj,2.272,3,1,boys,-0.7171842508521334
+VOICE DATASET BOYS/JAY_BIT.wav,JAY_BIT.wav,boys,1,jay,0.815,4,1,boys,-1.2372998172250007
+VOICE DATASET BOYS/JAY_Name.wav,JAY_Name.wav,boys,1,jay,1.033,4,1,boys,-0.3073013659706105
+VOICE DATASET BOYS/Karan_BIT.wav,Karan_BIT.wav,boys,1,karan,0.735,2,1,boys,-0.4517028973225307
+VOICE DATASET BOYS/Karan_Name.wav,Karan_Name.wav,boys,1,karan,1.12,2,1,boys,-0.7922881684193195
+VOICE DATASET BOYS/Krish_BIT.wav,Krish_BIT.wav,boys,1,krish,2.496,1,1,boys,-0.7345517373552911
+VOICE DATASET BOYS/Krish_Name.wav,Krish_Name.wav,boys,1,krish,2.176,1,2,girls,0.0044321697856308795
+VOICE DATASET BOYS/Manas_BIT.mp3,Manas_BIT.mp3,boys,1,manas,3.128,1,1,boys,-1.0678713319354838
+VOICE DATASET BOYS/Manas_Name.mp3,Manas_Name.mp3,boys,1,manas,3.136,1,1,boys,-0.5520972345491754
+VOICE DATASET BOYS/MAYUR_BIT.m4a.mpeg,MAYUR_BIT.m4a.mpeg,boys,1,mayur,2.4107,3,1,boys,-0.8943875954257228
+VOICE DATASET BOYS/MAYUR_NAME.m4a.mp4,MAYUR_NAME.m4a.mp4,boys,1,mayur,2.0053,3,1,boys,-1.0093981185585736
+VOICE DATASET BOYS/Mehul_BIT_trimmed.wav,Mehul_BIT_trimmed.wav,boys,1,mehul,0.905,3,1,boys,-1.2989162783145571
+VOICE DATASET BOYS/Mehul_Name_trimmed.wav,Mehul_Name_trimmed.wav,boys,1,mehul,0.675,3,1,boys,-0.9507734057703763
+VOICE DATASET BOYS/Naman_BIT.wav,Naman_BIT.wav,boys,1,naman,2.048,2,1,boys,-0.3438783365250895
+VOICE DATASET BOYS/Naman_Name.wav,Naman_Name.wav,boys,1,naman,1.696,2,1,boys,-0.004739339266728204
+VOICE DATASET BOYS/Nitin_BIT.wav,Nitin_BIT.wav,boys,1,nitin,0.4612,1,1,boys,-0.8495475735216191
+VOICE DATASET BOYS/Nitin_Name.wav,Nitin_Name.wav,boys,1,nitin,0.5541,1,1,boys,-0.9178922047561928
+VOICE DATASET BOYS/PranavRanjan_BIT.mp3,PranavRanjan_BIT.mp3,boys,1,pranavranjan,1.024,1,1,boys,-0.7480450368181514
+VOICE DATASET BOYS/PranavRanjan_Name.mp3,PranavRanjan_Name.mp3,boys,1,pranavranjan,1.568,1,1,boys,-0.37215719761613264
+VOICE DATASET BOYS/PRATIK_TIRKEY_BIT.wav,PRATIK_TIRKEY_BIT.wav,boys,1,pratik,1.568,5,1,boys,-0.3446723130506766
+VOICE DATASET BOYS/PRATIK_TIRKEY_NAME.wav,PRATIK_TIRKEY_NAME.wav,boys,1,pratik,1.28,5,2,girls,0.10952010876876261
+VOICE DATASET BOYS/PRATYUSH_KUMAR_BIT&PRATYUSH_KUMAR_NAME 1.wav,PRATYUSH_KUMAR_BIT&PRATYUSH_KUMAR_NAME 1.wav,boys,1,pratyush,3.9179,4,1,boys,-0.4905578232214841
+VOICE DATASET BOYS/PRATYUSH_KUMAR_BIT&PRATYUSH_KUMAR_NAME.m4a,PRATYUSH_KUMAR_BIT&PRATYUSH_KUMAR_NAME.m4a,boys,1,pratyush,3.9179,4,1,boys,-0.44981723169981414
+VOICE DATASET BOYS/PRINCE_BIT.wav,PRINCE_BIT.wav,boys,1,prince,0.896,4,1,boys,-1.0135690758954277
+VOICE DATASET BOYS/PRINCE_NAME.wav,PRINCE_NAME.wav,boys,1,prince,0.576,4,1,boys,-1.2741239333970684
+VOICE DATASET BOYS/Priyanshu_BIT.wav,Priyanshu_BIT.wav,boys,1,priyanshu,0.92,2,1,boys,-1.3189071643919954
+VOICE DATASET BOYS/Priyanshu_Name.wav,Priyanshu_Name.wav,boys,1,priyanshu,1.02,2,1,boys,-1.0815697027689584
+VOICE DATASET BOYS/PRIYOJIT_BIT.wav,PRIYOJIT_BIT.wav,boys,1,priyojit,1.536,5,1,boys,-0.21906641916359193
+VOICE DATASET BOYS/PRIYOJIT_NAME.wav,PRIYOJIT_NAME.wav,boys,1,priyojit,1.152,5,1,boys,-0.8755102505718755
+VOICE DATASET BOYS/processed audio dipanshu 10678.wav,processed audio dipanshu 10678.wav,boys,1,dipanshu,3.072,2,1,boys,-1.236384101759094
+VOICE DATASET BOYS/Rajvir_BIT.mp3,Rajvir_BIT.mp3,boys,1,rajvir,3.136,5,1,boys,-0.6879039472237076
+VOICE DATASET BOYS/Rajvir_Name.mp3,Rajvir_Name.mp3,boys,1,rajvir,3.04,5,1,boys,-1.0089667160235083
+VOICE DATASET BOYS/Raushan_BIT_trimmed.wav,Raushan_BIT_trimmed.wav,boys,1,raushan,1.3352,3,1,boys,-0.9605238047418018
+VOICE DATASET BOYS/Raushan_Name_trimmed.wav,Raushan_Name_trimmed.wav,boys,1,raushan,1.0681,3,1,boys,-0.7255299679462525
+VOICE DATASET BOYS/RISHABH RAJ_BIT.wav,RISHABH RAJ_BIT.wav,boys,1,rishabh,0.896,5,1,boys,-0.9196204002936644
+VOICE DATASET BOYS/RISHABH RAJ_NAME.wav,RISHABH RAJ_NAME.wav,boys,1,rishabh,0.6775,5,1,boys,-1.1913132307539676
+VOICE DATASET BOYS/Rishav_BIT.wav,Rishav_BIT.wav,boys,1,rishav,1.728,2,1,boys,-1.1172381827649123
+VOICE DATASET BOYS/Rishav_Name.wav,Rishav_Name.wav,boys,1,rishav,1.5008,2,1,boys,-1.3130929768058601
+VOICE DATASET BOYS/Rohit_BIT.wav,Rohit_BIT.wav,boys,1,rohit,1.888,1,1,boys,-0.5668193330436903
+VOICE DATASET BOYS/Rohit_Name.wav,Rohit_Name.wav,boys,1,rohit,2.88,1,1,boys,-0.9415248621335338
+VOICE DATASET BOYS/Rudraksh_BIT&Rudraksh_Rudraksh.wav,Rudraksh_BIT&Rudraksh_Rudraksh.wav,boys,1,rudraksh,2.4,4,1,boys,-0.5520047139665349
+VOICE DATASET BOYS/Sahil_Ray_BIT.wav,Sahil_Ray_BIT.wav,boys,1,sahil,2.15,4,1,boys,-1.6788710421448652
+VOICE DATASET BOYS/Sahil_Ray_Name.wav,Sahil_Ray_Name.wav,boys,1,sahil,2.1,4,1,boys,-0.20334862569453227
+VOICE DATASET BOYS/Sameer_Kumar_BIT.wav,Sameer_Kumar_BIT.wav,boys,1,sameer,0.928,2,1,boys,-1.1905223464194723
+VOICE DATASET BOYS/Sameer_Kumar_Name.wav,Sameer_Kumar_Name.wav,boys,1,sameer,1.152,2,1,boys,-1.4895651312900646
+VOICE DATASET BOYS/SARTHAK_ANAND.wav,SARTHAK_ANAND.wav,boys,1,sarthak,1.3,2,1,boys,-1.020538576286493
+VOICE DATASET BOYS/SARTHAK_ANAND_BIT.wav,SARTHAK_ANAND_BIT.wav,boys,1,sarthak,1.08,2,1,boys,-0.9278437660158958
+VOICE DATASET BOYS/Sarthak_BIT 1.wav,Sarthak_BIT 1.wav,boys,1,sarthak,0.768,2,1,boys,-0.798219380671241
+VOICE DATASET BOYS/Sarthak_Name 2.wav,Sarthak_Name 2.wav,boys,1,sarthak,0.5547,2,1,boys,-0.47082553677612815
+VOICE DATASET BOYS/sattwik_BIT & sattwik_Name 1.wav,sattwik_BIT & sattwik_Name 1.wav,boys,1,sattwik,1.984,5,1,boys,-0.7308672965887101
+VOICE DATASET BOYS/sattwik_BIT & sattwik_Name trimmed 1.wav,sattwik_BIT & sattwik_Name trimmed 1.wav,boys,1,sattwik,1.56,5,1,boys,-0.681837266762785
+VOICE DATASET BOYS/Saurav_Kumar_BIT.wav,Saurav_Kumar_BIT.wav,boys,1,saurav,0.992,2,1,boys,-0.7620553460901551
+VOICE DATASET BOYS/Saurav_Kumar_NAME.wav,Saurav_Kumar_NAME.wav,boys,1,saurav,1.632,2,1,boys,-0.7271633872626609
+VOICE DATASET BOYS/Shashwat_Shandilya_BIT 3.wav,Shashwat_Shandilya_BIT 3.wav,boys,1,shashwat,0.96,3,1,boys,-1.333427484077912
+VOICE DATASET BOYS/Shashwat_Shandilya_Name 2.wav,Shashwat_Shandilya_Name 2.wav,boys,1,shashwat,1.568,3,1,boys,-1.2323255369469468
+VOICE DATASET BOYS/Shekhar_BIT.wav,Shekhar_BIT.wav,boys,1,shekhar,1.036,1,1,boys,-1.3203839375310948
+VOICE DATASET BOYS/Shekhar_Name.wav,Shekhar_Name.wav,boys,1,shekhar,0.96,1,1,boys,-1.1655136567363038
+VOICE DATASET BOYS/Shreya_Name.mp3,Shreya_Name.mp3,boys,1,shreya,3.328,4,1,boys,-1.1696135665728462
+VOICE DATASET BOYS/Siddharth_BIT & Siddharth_Name.mp3,Siddharth_BIT & Siddharth_Name.mp3,boys,1,siddharth,6.872,2,1,boys,-0.47025360597927396
+VOICE DATASET BOYS/Sidhant_BIT.wav,Sidhant_BIT.wav,boys,1,sidhant,4.064,5,1,boys,-0.9650450276699365
+VOICE DATASET BOYS/Sidhant_Name.wav,Sidhant_Name.wav,boys,1,sidhant,3.168,5,1,boys,-0.6330807664762101
+VOICE DATASET BOYS/Soumik_Dash_BIT.wav,Soumik_Dash_BIT.wav,boys,1,soumik,1.8205,5,1,boys,-1.0874429192315138
+VOICE DATASET BOYS/Soumik_Dash_Name.wav,Soumik_Dash_Name.wav,boys,1,soumik,2.3405,5,1,boys,-1.1774228153760748
+VOICE DATASET BOYS/Sufiyan_BIT_trimmed.wav,Sufiyan_BIT_trimmed.wav,boys,1,sufiyan,1.21,5,1,boys,-0.5977969722264028
+VOICE DATASET BOYS/Sufiyan_NAME_trimmed.wav,Sufiyan_NAME_trimmed.wav,boys,1,sufiyan,1.38,5,1,boys,-0.9021030242559479
+VOICE DATASET BOYS/Vaibhav_BIT & Vaibhav_Name.wav,Vaibhav_BIT & Vaibhav_Name.wav,boys,1,vaibhav,3.232,3,1,boys,-1.705289645702602
+VOICE DATASET BOYS/Yash_BIT&Yash_Name.wav,Yash_BIT&Yash_Name.wav,boys,1,yash,2.88,3,1,boys,-1.4474614372415937
+VOICE DATASET BOYS/Yash_Gupta_BIT.wav,Yash_Gupta_BIT.wav,boys,1,yash,1.056,3,1,boys,-0.826078466360038
+VOICE DATASET BOYS/Yash_Gupta_Name.wav,Yash_Gupta_Name.wav,boys,1,yash,1.504,3,1,boys,-0.7743994965962387
+VOICE DATASET GIRLS/anshika_gandhi_BIT_Name_trimmed.wav,anshika_gandhi_BIT_Name_trimmed.wav,girls,2,anshika,2.09,4,1,boys,-0.10667579914326974
+VOICE DATASET GIRLS/Avantika_BIT.wav,Avantika_BIT.wav,girls,2,avantika,1.024,3,2,girls,0.4875304161108234
+VOICE DATASET GIRLS/Avantika_NAME.wav,Avantika_NAME.wav,girls,2,avantika,2.656,3,1,boys,-0.7894059581428716
+VOICE DATASET GIRLS/Dikshita_BIT.wav,Dikshita_BIT.wav,girls,2,dikshita,3.808,5,2,girls,0.7496014616329291
+VOICE DATASET GIRLS/GUNGUN_BIT & GUNGUN_VOICE.wav,GUNGUN_BIT & GUNGUN_VOICE.wav,girls,2,gungun,2.816,4,2,girls,0.6727977906750825
+VOICE DATASET GIRLS/GUNGUN_BIT_NAME_processed.wav,GUNGUN_BIT_NAME_processed.wav,girls,2,gungun,2.432,4,2,girls,0.6403115782915002
+VOICE DATASET GIRLS/PALAK_BIT.mp3,PALAK_BIT.mp3,girls,2,palak,1.024,1,1,boys,-0.5933346193236682
+VOICE DATASET GIRLS/PALAK_NAME.mp3,PALAK_NAME.mp3,girls,2,palak,1.952,1,1,boys,-0.21274566452736776
+VOICE DATASET GIRLS/Pari_BIT.mp3,Pari_BIT.mp3,girls,2,pari,1.5557,5,1,boys,-0.8276210495774552
+VOICE DATASET GIRLS/Pari_Name.mp3,Pari_Name.mp3,girls,2,pari,1.7183,5,1,boys,-0.7426749142679685
+VOICE DATASET GIRLS/Preksha_BIT.wav,Preksha_BIT.wav,girls,2,preksha,1.9307,2,1,boys,-0.1722398101607796
+VOICE DATASET GIRLS/Preksha_Name.wav,Preksha_Name.wav,girls,2,preksha,2.144,2,2,girls,0.6495181877790288
+VOICE DATASET GIRLS/Qamareen_BIT.wav,Qamareen_BIT.wav,girls,2,qamareen,0.9747,2,2,girls,0.002717584046941335
+VOICE DATASET GIRLS/Qamareen_Name.wav,Qamareen_Name.wav,girls,2,qamareen,0.7627,2,2,girls,0.3582708166047146
+VOICE DATASET GIRLS/Shreya_BIT.mp3,Shreya_BIT.mp3,girls,2,shreya,2.6454,4,1,boys,-0.46888854149230613
+VOICE DATASET GIRLS/Shristy_BIT.mp3,Shristy_BIT.mp3,girls,2,shristy,1.516,3,2,girls,0.19867875785066313
+VOICE DATASET GIRLS/Shristy_NAME.mp3,Shristy_NAME.mp3,girls,2,shristy,1.492,3,1,boys,-0.840441076214631
+VOICE DATASET GIRLS/Stuti_BIT.wav,Stuti_BIT.wav,girls,2,stuti,0.864,1,2,girls,0.014602542889410874
+VOICE DATASET GIRLS/Stuti_Name.wav,Stuti_Name.wav,girls,2,stuti,0.864,1,1,boys,-0.3185055904686679
